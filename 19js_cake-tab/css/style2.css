@@ -1,0 +1,11 @@
+#main-visual {
+    background-image: url(../image/mv.png);
+    /* background-image:背景画像 */
+    /* background-repeat: no-repeat; */
+    /* background-repeat:背景の繰り返し */
+    background-size: cover;
+    height: 100vh;
+    max-height: 633px;
+    /* max-height:最大縦幅 */
+  }
+  
